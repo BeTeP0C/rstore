@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+@import "./_mixins.global";
+@import "./_reset.global";
+@import "./_variables";
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Roboto", serif;
+}
+
+body {
+  background: #EAEAEA;
+}
+
+img {
+  width: 100%;
+}

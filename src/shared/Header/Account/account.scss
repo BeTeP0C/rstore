@@ -1,0 +1,23 @@
+
+.header__account {
+    display: flex;
+}
+
+.header__button {
+    padding: 19px 40px; 
+    width: 139px;
+    height: 59px;
+    font-weight: 500;
+    font-size: 17px;
+    color: #ffffff;
+    background: #3799C3;
+    transition: background 0.3s ease;
+
+    &:hover {
+        background: #38b3e7;
+    }
+
+    &:focus-visible, &:active {
+        background: #063346;
+    }
+}

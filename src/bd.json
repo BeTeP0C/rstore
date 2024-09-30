@@ -1,0 +1,98 @@
+[
+    {
+        "title": "Чехлы",
+        "elements": [
+            {
+                "title": "Стеклянные",
+                "img": "./img/covers_1.png",
+                "like": "false",
+                "manufacturer": "apple",
+                "price": "false",
+                "like_visible": "false",
+                "logo_visible": "false"
+            },
+            {
+                "title": "Силиконовые",
+                "img": "./img/covers_2.png",
+                "like": "false",
+                "manufacturer": "apple",
+                "price": "false",
+                "like_visible": "false",
+                "logo_visible": "false"
+            },
+            {
+                "title": "Кожаные",
+                "img": "./img/covers_3.png",
+                "like": "false",
+                "manufacturer": "apple",
+                "price": "false",
+                "like_visible": "false",
+                "logo_visible": "false"
+            }
+        ]
+    },
+    {
+        "title": "Наушники",
+        "elements": [
+            {
+                "title": "Apple EarPods",
+                "img": "./img/covers_1.png",
+                "like": "false",
+                "manufacturer": "apple",
+                "price": "1 999",
+                "like_visible": "true",
+                "logo_visible": "false"
+            },
+            {
+                "title": "Apple EarPods",
+                "img": "./img/covers_2.png",
+                "like": "true",
+                "manufacturer": "apple",
+                "price": "1 999",
+                "like_visible": "true",
+                "logo_visible": "false"
+            },
+            {
+                "title": "Apple EarPods",
+                "img": "./img/covers_3.png",
+                "like": "false",
+                "manufacturer": "apple",
+                "price": "2 999",
+                "like_visible": "true",
+                "logo_visible": "false"
+            }
+        ]
+    },
+    {
+        "title": "Беспроводные наушники",
+        "elements": [
+            {
+                "title": "Apple AirPods",
+                "img": "./img/covers_1.png",
+                "like": "false",
+                "manufacturer": "apple",
+                "price": "12 990",
+                "like_visible": "true",
+                "logo_visible": "true"
+            },
+            {
+                "title": "Apple AirPods Pro",
+                "img": "./img/covers_2.png",
+                "like": "false",
+                "manufacturer": "apple",
+                "price": "22 999",
+                "like_visible": "true",
+                "logo_visible": "false"
+            },
+            {
+                "title": "Beats",
+                "img": "./img/covers_3.png",
+                "like": "false",
+                "manufacturer": "apple",
+                "price": "10 000",
+                "like_visible": "true",
+                "logo_visible": "false"
+            }
+        ]
+    }
+]
